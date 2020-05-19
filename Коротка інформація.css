@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	background: url(image.jpg) no-repeat;
+	font-family: Times New Roman;
+}
+header{
+	background: black;
+    color: white;
+	text-align: center;
+	height: 170px;
+	padding-top: 10px;
+}
+.top{
+	font-size: 24px;
+	color: white;
+	font-family: Times New Roman;
+	padding-top: 30px;
+}
+.contacts{
+	padding: 50px;
+	float: center;
+	color: white;
+}
+.contacts a{
+	padding: 50px;
+	float: center;
+	color: white;
+}
+.contacts a:hover{
+	padding: 50px;
+	float: center;
+	color: teal;
+}
+.text{
+	float: center;
+}
+.leftcol{
+	padding: 30px;
+	width: 450px;
+	color: #000;
+	float: left;
+}
+.rightcol{
+	padding: 30px;
+	width: 450px;
+	color: #000;
+	float: right;
+}
+
+footer{
+	height: 50px;
+	width: 100%;
+	left: 0; bottom: 0;
+	position: fixed;
+    background: black;
+    color: white;
+}

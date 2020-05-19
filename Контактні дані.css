@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	background: #000;
+}
+header{
+	text-align: center;
+	height: 100px;
+	padding-top: 10px;
+}
+h1{
+	text-align: center;
+	color: #000;
+	font-size: 30px;
+}
+.top{
+	font-size: 24px;
+	color: white;
+	font-family: Times New Roman;
+	padding-top: 30px;
+}
+.info{
+	background: url(image.jpg) no-repeat;
+	position:  fixed;
+	height: 100%;
+	width: 100%;
+	padding-top: 10px;
+}
+.text{
+	color: #000;
+	font-size: 20px;
+}
+footer{
+    float: center;
+	padding-left: 10px;
+	background: #000;
+	height: 50px;
+	width: 100%;
+	left: 0; bottom: 0;
+	position: fixed;
+    background: black;
+    color: white;
+	text-align: center;
+}
